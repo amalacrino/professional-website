@@ -57,9 +57,6 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Antonino_Malacrino
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/author/1283862/antonino-malacrino
   
 
 # Link to a PDF of your resume/CV from the About widget.

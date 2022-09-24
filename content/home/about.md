@@ -4,7 +4,7 @@ headless: true
 
 title: A bit more about me
 subtitle:
-weight: 60
+weight: 50
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

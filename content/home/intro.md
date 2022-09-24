@@ -18,7 +18,8 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+👋 Hi, there! 
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 
 **I’m an Assistant Professor of Plant Pathology, mainly interested in plant microbiomes**. I mix theory from community ecology, experimental evolution, and multitrophic interactions with tools such as molecular biology, high-throughput sequencing, and high-performance computing to investigate the mechanisms behind the interactions between plants and their microbiome. My research focuses on answering important fundamental questions: how do microbiomes influence plant ecology and evolution? What are the drivers of microbial community assembly in plants? How do microbiomes help invasive species to adapt to new environments? 

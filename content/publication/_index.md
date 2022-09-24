@@ -12,5 +12,5 @@ banner:
 
 
 {{% callout note %}}
-This is a list of selected recent papers. Please click {{< staticref "https://scholar.google.com/citations?hl=en&user=_ghEdkYAAAAJ&view_op=list_works&sortby=pubdate" "newtab" >}}here{{< /staticref >}} is a full list of my publications.
+This is a list of selected recent papers. Please, click {{< staticref "https://scholar.google.com/citations?hl=en&user=_ghEdkYAAAAJ&view_op=list_works&sortby=pubdate" "newtab" >}}here{{< /staticref >}} for a full list of my publications.
 {{% /callout %}}

@@ -36,4 +36,3 @@ design:
   columns: '1'
 ---
 
-{{< icon name="google-scholar" pack="ai" >}} {{< staticref "https://scholar.google.com/citations?hl=en&user=_ghEdkYAAAAJ&view_op=list_works&sortby=pubdate" "newtab" >}}Here{{< /staticref >}} is a full list of my publications.

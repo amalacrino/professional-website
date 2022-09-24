@@ -7,7 +7,7 @@ highlight_name: true
 superuser: true
 
 # Role/position
-role: Assistant Professor (RTDb)
+role: Assistant Professor (RTDb) of Plant Pathology
 
 # Status emoji
 #status:

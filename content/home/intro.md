@@ -25,4 +25,6 @@ author: admin
 I’m a **molecular ecologist** mainly interested in **plant microbiomes**. I mix theory from community ecology, experimental evolution, and multitrophic interactions with tools such as molecular biology, high-throughput sequencing, and high-performance computing to investigate the mechanisms behind the interactions between plants and their microbiome. My research focuses on answering important fundamental questions: how do microbiomes influence plant ecology and evolution? What are the drivers of microbial community assembly in plants? How do microbiomes help invasive species to adapt to new environments? 
 
 I'm an Assistant Professor of Plant Pathology at the University of Reggio Calabria (Italy). Our group is working on both fundamental and applied research on plant microbiomes, plant pathogens, and alternative strategies to protect our crops.
-{{% cta cta_text="Visit our lab →" cta_link="https://calm-licorice-dbaadd.netlify.app/" cta_new_tab="true" %}}
+
+{{% cta cta_link="https://calm-licorice-dbaadd.netlify.app/" cta_text="Visit our lab →" %}}
+

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Antonino Malacrinò
+highlight_name: true
 
 # Is this the primary user of the site?
 superuser: true

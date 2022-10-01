@@ -1,6 +1,6 @@
 ---
 title: Plant microbiomes
-summary: How do plant microbiomes assemble and function?
+summary: 
 tags:
   - microbiome
 date: '2022-01-01T00:00:00Z'

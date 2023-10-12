@@ -1,5 +1,5 @@
 ---
-title: Select and evolve microbiomes to implement functional traits
+title: Select and evolve microbiomes to implement novel functional traits
 summary: 
 tags:
   - syncomm

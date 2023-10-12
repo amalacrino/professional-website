@@ -1,5 +1,5 @@
 ---
-title: Understanding the rules behind plant microbiome assembly
+title: Understanding the rules behind plant microbiomes assembly
 summary: 
 tags:
   - microbiome

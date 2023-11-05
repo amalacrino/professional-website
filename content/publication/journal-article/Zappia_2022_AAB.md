@@ -41,6 +41,6 @@ url_source: ''
 url_video: ''
 
 # Associated Projects (optional).
-projects: [microbiome]
+projects: []
 slides:
 ---

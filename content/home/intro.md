@@ -26,3 +26,15 @@ I’m a **molecular ecologist** mainly interested in **plant microbiomes**. My r
 I'm an Assistant Professor of Plant Pathology at the University of Reggio Calabria (Italy). Our group is working on both fundamental and applied research on plant microbiomes, plant pathogens, and alternative strategies to protect our crops.
 
 [**Visit our lab website**](https://plantpathology.netlify.app/) and learn more about our team and research interests.
+
+{{% alert note%}} New website soon!a
+
+Exciting updates are coming ... and they deserve a new website! I'm currently working on it, and it should be available this summer. Stay tuned!
+
+{{% /alert %}}
+
+{{% callout warning %}} New website soon!b
+
+Exciting updates are coming ... and they deserve a new website! I'm currently working on it, and it should be available this summer. Stay tuned!
+
+{{% /callout %}}

@@ -23,13 +23,11 @@ author: admin
 
 I’m a **molecular ecologist** mainly interested in **plant microbiomes**. My research is a blend of theory drawn from evolutionary biology, community ecology, and multitrophic interactions, combined with cutting-edge tools in molecular biology, experimental evolution, high-throughput sequencing, and high-performance computing to delve deep into the mechanisms governing the interplay between plants and their microbiomes. My research focuses on answering important fundamental questions: how do microbiomes influence plant ecology and evolution? Which are the rules behind the assembly of plant microbial communities? Can we assemble/evolve microbiomes to drive changes in plant functional traits?
 
-{{% cta cta_link="https://malacrinolab.netlify.app/" cta_text="Malacrino Lab website →" %}}
-
 {{% callout note %}} **We are moving to the US!** 🇺🇸
 
 The [**Malacrino Lab**](https://malacrinolab.netlify.app/) at Clemson University will open its doors in January 2025 as part of the [Department of Biological Sciences](https://www.clemson.edu/science/academics/departments/biosci/index.html). The lab will focus on fundamental and applied research on microbiomes.
 
-Visit our new website to learn about our research and opportunities to join us!
+Visit [our new website](https://malacrinolab.netlify.app/) to learn about our research and opportunities to join us!
 
 {{% /callout %}}
 

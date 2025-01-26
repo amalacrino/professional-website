@@ -15,7 +15,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Reggio Calabria (Italy)
+  - name: Clemson University (Clemson, SC, USA)
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
